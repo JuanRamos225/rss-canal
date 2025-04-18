@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Tech News</title>
+    <link>https://www.technews.com</link>
+    <description>Las últimas novedades tecnológicas</description>
+
+    <item>
+      <title>Intel presenta sus nuevos procesadores Core Ultra</title>
+      <link>https://www.technews.com/articulos/intel-core-ultra</link>
+      <description>Intel lanza una nueva generación de procesadores con IA integrada para laptops y PCs.</description>
+      <pubDate>Wed, 16 Apr 2025 10:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>El iPhone 16 incluirá cámara periscópica</title>
+      <link>https://www.technews.com/articulos/iphone-16-camara</link>
+      <description>Apple anuncia una mejora significativa en el zoom óptico del próximo iPhone.</description>
+      <pubDate>Tue, 15 Apr 2025 14:30:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Microsoft presenta Copilot para Windows 12</title>
+      <link>https://www.technews.com/articulos/copilot-windows12</link>
+      <description>Copilot se integrará profundamente en Windows 12 como asistente basado en IA.</description>
+      <pubDate>Mon, 14 Apr 2025 08:45:00 GMT</pubDate>
+    </item>
+
+  </channel>
+</rss>
